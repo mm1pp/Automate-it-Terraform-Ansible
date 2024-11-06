@@ -1,0 +1,1 @@
+![ПАРОЛИ](https://github.com/mm1pp/Automate-it-Terraform-Ansible/blob/main/Password_output.jpg)
